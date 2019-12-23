@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "Example.h"
 
 FOUNDATION_EXPORT double FPZuJianHuaVersionNumber;
 FOUNDATION_EXPORT const unsigned char FPZuJianHuaVersionString[];

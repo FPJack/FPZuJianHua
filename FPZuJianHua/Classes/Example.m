@@ -9,5 +9,7 @@
 #import "Example.h"
 
 @implementation Example
-
+- (void)test{
+    
+}
 @end

@@ -1,5 +1,5 @@
 PODS:
-  - FPZuJianHua (0.1.0)
+  - FPZuJianHua (0.3.0)
 
 DEPENDENCIES:
   - FPZuJianHua (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FPZuJianHua: c241885efc5910c32f7a819e87f57025b7a71d8a
+  FPZuJianHua: 01230736ee4fb2e2fb01bfac95282e132afedab3
 
 PODFILE CHECKSUM: c33b242864d79199daa4258a38275b861be0baae
 
