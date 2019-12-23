@@ -1,0 +1,6 @@
+framework module Pods_FPZuJianHua_Tests {
+  umbrella header "Pods-FPZuJianHua_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

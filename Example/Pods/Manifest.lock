@@ -1,0 +1,16 @@
+PODS:
+  - FPZuJianHua (0.1.0)
+
+DEPENDENCIES:
+  - FPZuJianHua (from `../`)
+
+EXTERNAL SOURCES:
+  FPZuJianHua:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FPZuJianHua: c241885efc5910c32f7a819e87f57025b7a71d8a
+
+PODFILE CHECKSUM: c33b242864d79199daa4258a38275b861be0baae
+
+COCOAPODS: 1.8.4
